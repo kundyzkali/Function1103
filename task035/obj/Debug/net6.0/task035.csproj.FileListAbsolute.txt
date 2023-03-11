@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\bin\Debug\net6.0\task035.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\bin\Debug\net6.0\task035.deps.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\bin\Debug\net6.0\task035.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\bin\Debug\net6.0\task035.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\bin\Debug\net6.0\task035.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\refint\task035.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\task035.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\Function1103\task035\obj\Debug\net6.0\ref\task035.dll
